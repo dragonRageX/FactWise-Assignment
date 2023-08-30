@@ -157,6 +157,16 @@ p:last-child
   cursor: pointer;
 }
 
+.not-adult
+{
+  cursor: not-allowed;
+}
+
+.not-adult:hover
+{
+  cursor: not-allowed;
+}
+
 .bi-trash3
 {
   fill: red;
