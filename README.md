@@ -1,5 +1,8 @@
 Note:
-## I made this without the help of any npm packages or design frameworks! All raw code there, folks!
+
+**I made this project without the help of any npm packages or design frameworks!**
+
+**All raw code there, folks!**
 
 # React + Vite
 
